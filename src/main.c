@@ -68,6 +68,8 @@ int main(int argc, char const *argv[])
         StWindow_update();
     }
 
+    // burger 🟧🟩🟥🟫🟧
+    
     StDebugMode_free();
     StWindow_free();
     return 0;
